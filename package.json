@@ -1,0 +1,19 @@
+{
+  "name": "hello_javascript_mouredev",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node runner.js",
+    "test": "echo \"No hay pruebas definidas aún\" && exit 0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  },
+  "dependencies": {
+    "chokidar": "^4.0.3"
+  }
+}

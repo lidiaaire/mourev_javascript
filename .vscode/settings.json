@@ -1,0 +1,20 @@
+{
+  "editor.formatOnSave": true,
+  "explorer.confirmDelete": false,
+  "workbench.iconTheme": "material-icon-theme",
+  "material-icon-theme.files.color": "#90a4ae",
+  "workbench.colorTheme": "One Dark Pro Night Flat",
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "terminal.integrated.suggest.enabled": true,
+  "files.autoSaveWorkspaceFilesOnly": true,
+  "code-runner.saveAllFilesBeforeRun": true,
+  "code-runner.saveFileBeforeRun": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "code-runner.runInTerminal": true,
+  "code-runner.executorMap": {
+    "javascript": "node"
+  },
+  "code-runner.fileDirectoryAsCwd": true
+}
