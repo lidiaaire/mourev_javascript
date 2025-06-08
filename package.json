@@ -3,10 +3,13 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": {
-    "start": "node runner.js",
-    "test": "echo \"No hay pruebas definidas aún\" && exit 0"
-  },
+"scripts": {
+  "start": "node runner.js",
+  "watch:auto": "nodemon runner.js",
+  "test": "echo \"No hay pruebas definidas aún\" && exit 0"
+}
+
+,
   "keywords": [],
   "author": "",
   "license": "ISC",
